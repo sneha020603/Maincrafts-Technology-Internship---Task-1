@@ -1,4 +1,4 @@
-# 🌐 Full Stack Contact Form | Sneha Kumari
+# 🌐 Full Stack Contact Form | Sneha
 
 🚀 This project is built as part of the **Maincrafts Technology Internship - Task 1**
 
